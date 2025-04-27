@@ -1,12 +1,12 @@
 # Resume by Ivan Stepanov
 ### ML Engineer
-Email: stepan0via@ya.ru Tg: t.me/vanya_stepanov
+Email: stepan0via@ya.ru Tg: https://t.me/vanya_stepanov
 
 ## Навыки
-**ML/DL:** PyTorch, Transformers, Scikit-learn, Catboost, XGBoost, LightGBM, Optuna, Shap, Optuna, Blending, Stacking, Python
-**Analize:** Pandas, NumPy, SQL 
-**Visualization:** Seaborn, Matplotlib, Plotly
-**Other:** Высшая математика, Английский язык
+- **ML/DL:** PyTorch, Transformers, Scikit-learn, Catboost, XGBoost, LightGBM, Optuna, Shap, Optuna, Blending, Stacking, Python
+- **Analize:** Pandas, NumPy, SQL 
+- **Visualization:** Seaborn, Matplotlib, Plotly
+- **Other:** Высшая математика, Английский язык
 
 ## Обо мне:
 - Имею знания и опыт решения задач NLP, Computer Vision, регрессии, классификации, кластеризации. Постоянно их совершенствую.
