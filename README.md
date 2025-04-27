@@ -5,9 +5,9 @@
 
 ## Навыки
 - **ML/DL:** PyTorch, Transformers, Scikit-learn, Catboost, XGBoost, LightGBM, Optuna, Shap, Optuna, Blending, Stacking, Python
-- **Analize:** Pandas, NumPy, SQL 
+- **Analize:** Pandas, Dask, NumPy, SQL 
 - **Visualization:** Seaborn, Matplotlib, Plotly
-- **Other:** Высшая математика, Английский язык
+- **Others:** Высшая математика, Английский язык
 
 ## Обо мне:
 - Имею знания и опыт решения задач NLP, Computer Vision, регрессии, классификации, кластеризации. Постоянно их совершенствую.
