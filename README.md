@@ -2,7 +2,8 @@
 ### ML Engineer
 Moscow, Russia
 
-*Email*: stepan0via@ya.ru 
+*Email*: stepan0via@ya.ru
+
 *Telegram*: https://t.me/vanya_stepanov
 
 ## 🔎 Навыки
