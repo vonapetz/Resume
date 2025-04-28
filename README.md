@@ -40,7 +40,7 @@ PyTorch, cv2, Yolo
 ### Project №2
 Создание модели машинного обучения, предсказывающую уход абонента в отток у телекоммуникационной компании
 #### Стек:
-numpy, pandas, matplotlib, seaborn, sklearn, imblearn 
+CatBoost, NumPy, Pandas, Matplotlib, Seaborn, Sklearn, Imblearn 
 #### Задачи:
 - Выявление проблемы оттока посетителей
 - Проведение детального EDA
