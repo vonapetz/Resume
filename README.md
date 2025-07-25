@@ -1,4 +1,5 @@
-# Иван Степанов - Data Scientist & ML Engineer
+# Иван Степанов
+# Data Scientist & ML Engineer
 
 ## 🧠 Обо мне
 
